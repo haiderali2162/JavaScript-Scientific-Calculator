@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+
+form{
+    height: 700px;
+    width: 500px;
+    margin: auto;
+}
+
+input[type="text"]{
+    width: 100%;
+    height: 8%;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+input[type="button"]{
+    width: 20.8%;
+    height: 10%;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid green;
+    line-height: 10%;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 10%;
+}
+
+
+input[type="button"]:hover {
+    color: green;
+    background-color: rgba(50, 22, 22, 1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
